@@ -44,8 +44,7 @@ This project focuses on predicting employee attrition using machine learning. It
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/employee-attrition-prediction.git
-   cd employee-attrition-prediction
+   git clone https://github.com/Abinayaa2407/employee-attrition-prediction.git
 
 2. Install dependencies:
    ```bash
